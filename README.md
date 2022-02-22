@@ -6,12 +6,12 @@
 
 ## Python Library
 
-- Scikit-Learn
-  ![scikit-learn](./icon/sklearn.png)
-- Scikit-image
-  ![scikit-image](./icon/skimage.jpeg)
-- Matplotlib
-  ![matplotlib](./icon/matplotlib.jpeg)
+- Scikit-Learn <br>
+  <img src="./icon/sklearn.png" width="500" height="150">
+- Scikit-image <br>
+  <img src="./icon/skimage.jpeg" width="500" height="150">
+- Matplotlib <br>
+  <img src="./icon/matplotlib.jpeg" width="500" height="150">
 
 ## Segmentation Steps
 
